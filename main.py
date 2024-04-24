@@ -5,7 +5,7 @@ from crewai import Agent, Task, Crew, Process
 
 os.environ["OPENAI_API_BASE"] = 'https://api.groq.com/openai/v1'
 os.environ["OPENAI_MODEL_NAME"] ='llama3-8b-8192'  # Adjust based on available model
-os.environ["OPENAI_API_KEY"] ='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'
+os.environ["OPENAI_API_KEY"] ='sk-sssssssssssssssssssssssssssssssssssssssssssssssss'
 
 email = "Good morning guys, an important meeting on Tuesday at 10 pm"
 is_verbose = True
